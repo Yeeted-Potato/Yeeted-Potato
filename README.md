@@ -1,5 +1,6 @@
 ## Hello  
-I'm Evan,    
+I'm Evan,  
+  
 Student at Auckland University of Technology  
 Major: Cybersecurity  
 Minor: Data Science  
