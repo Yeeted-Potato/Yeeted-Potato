@@ -1,4 +1,4 @@
-## Hello  
+## Hello!  
 I'm Evan,  
   
 Student at Auckland University of Technology  
