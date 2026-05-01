@@ -1,4 +1,4 @@
-I'm Evan, Student at Auckland University of Technology
+I'm Evan, Student at Auckland University of Technology \n
 Major: Cybersecurity
 Minor: Data Science
 
