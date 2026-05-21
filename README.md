@@ -8,7 +8,6 @@ Minor: Data Science
 Currently working on projects using Luau, Python and Java as well as RStudio and Jupyter.  
   
 email: evanmhewett@gmail.com  
-phone: 0276260707  
 
 <!--
 **Yeeted-Potato/Yeeted-Potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
